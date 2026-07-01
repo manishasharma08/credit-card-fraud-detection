@@ -246,34 +246,9 @@ Then display them like this:
 * User authentication and dashboard
 * Continuous model retraining
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Push the branch.
-5. Open a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-
----
 
 ## ⭐ Support
 
